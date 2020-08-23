@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Happy Places</string>
+    <string name="edit_text_hint_title">タイトル</string>
+    <string name="edit_text_hint_description">内容</string>
+    <string name="edit_text_hint_date">日付</string>
+    <string name="edit_text_hint_location">場所</string>
+    <string name="text_add_image">イメージ画像</string>
+    <string name="btn_text_save">保存</string>
+    <string name="note_text_no_happy_places_found_yet">まだ見つけてねえよ</string>
+    <string name="note_text_no_happy_places_found_yet_kindly_add_one">No Happy Places Found Yet. Kindly add one.</string>
+    <string name="image_content_description">画像</string>
+    <string name="google_maps_api_key">AIzaSyCxtCl-GjzEWGqKmYXfgin41tQPTHGq_X0</string>
+    <string name="btn_text_view_on_map">地図を見る</string>
+    <string name="add_place_select_current_location_text">現在地を選ぶ</string>
+</resources>
